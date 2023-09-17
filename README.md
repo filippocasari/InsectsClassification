@@ -1,4 +1,4 @@
-# INSECTS RECOGNITION
+# INSECTS Classification
 
 Tools used: Keras, Matplotlib, Numpy
 
